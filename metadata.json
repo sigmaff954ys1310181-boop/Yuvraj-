@@ -1,0 +1,6 @@
+{
+  "name": "Premium Dental Clinic Website",
+  "description": "A luxury modern dental clinic website featuring comprehensive list of services, dentist profile, interactive booking system, testimonials, and contact details with smooth animations and polished UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
